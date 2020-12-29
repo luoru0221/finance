@@ -1,0 +1,16 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ó×·éê.
+g	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ó×·éê.
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ó×·éê.
+g	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ó×·éê.
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ó×·éê.
+V
+java:S1143A"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8ó×·éê.
+V
+java:S1143H"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8ó×·éê.
+_
+java:S1163A"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8ó×·éê.
+_
+java:S1163H"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8ó×·éê.
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ó×·éê.

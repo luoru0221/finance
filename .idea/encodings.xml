@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/dao/TradeDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/model/TradeInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/model/UserInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/model/VerifyCode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/DepositServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/LoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/LoginoutServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/QueryInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/QueryRecordServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/TransferServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/UpdateInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/UpdatePsdServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/VerifyCodeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/servlet/WithdrawServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/utils/DBUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zcb/finance/utils/finance.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/deposit.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/error.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/homepage.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/loginout.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/news1.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/news2.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/news3.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/newsbrief.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/queryInfo.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/queryRecord.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/transfer.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/updateInfo.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/updatePsd.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/welcome.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/withdraw.jsp" charset="GBK" />
+  </component>
+</project>
